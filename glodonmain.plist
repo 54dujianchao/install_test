@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://mobile.glodon.com/psc/ps/EMPLOYEE/EMPL/s/WEBLIB_MOB_INF.GST_ISCRIPT_APP.FieldFormula.IScript_download_latest_app</string>
+                        <string>https://github.com/54dujianchao/install_test/glodonmain.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>@2x应用图标地址，http://xxx.xxx.xxx/Icon@2x.png</string>
+                        <string>https://github.com/54dujianchao/install_test/logo58.png</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -27,7 +27,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>应用图标地址，http://xxx.xxx.xxx/Icon.png</string>
+                        <string>https://github.com/54dujianchao/install_test/logo29.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
@@ -43,5 +43,5 @@
                 </dict>
             </dict>
         </array>
-    </dict>  
+    </dict>
 </plist>
